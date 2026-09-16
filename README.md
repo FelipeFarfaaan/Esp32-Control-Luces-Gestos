@@ -269,7 +269,7 @@ control-luces-gestos/
 ## 8. Video de demostración
 
 <!-- Reemplazar por el enlace al video una vez grabado -->
-Enlace: _pendiente_
+Enlace: [Ver video de demostración](demo.mp4)
 
 ## 9. Referencias
 
